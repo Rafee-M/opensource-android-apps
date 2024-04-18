@@ -8,9 +8,8 @@
 </p>
 
 ---
-
-### 📋 Disclaimer
-This list contains mostly FOSS and a few closed-source apps (if they are unique enough and privacy-respecting). Also, the apps in this list are chosen based on whether I think they are one of the best in their respective categories, so this list will be concise, albeit a little biased. Other really useful lists will be referenced for finding more apps. 
+> [!NOTE]
+>This list contains mostly FOSS and a few closed-source apps (if they are unique enough and privacy-respecting). Also, the apps in this list are chosen based on whether I think they are one of the best in their respective categories, so this list will be concise, albeit a little biased. Other really useful lists will be referenced for finding more apps. 
 
 ### ➡️ Tags
 
